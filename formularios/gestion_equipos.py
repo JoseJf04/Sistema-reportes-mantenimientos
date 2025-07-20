@@ -93,7 +93,9 @@ class GestionEquipos:
             bgcolor="#FFFFFF",
             width=860,
             border_radius=15,
-            expand=True
+            expand=True,
+            data_row_min_height=50,
+            data_row_max_height=80,
         )
 
 
